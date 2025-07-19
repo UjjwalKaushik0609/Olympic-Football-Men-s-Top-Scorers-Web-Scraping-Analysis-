@@ -1,6 +1,6 @@
 
 # 🏅 Olympic Football Men’s Top Scorers – Web Scraping & Analysis
-![Image](https://github.com/user-attachments/assets/2e1778ab-9b63-4be1-b4db-f878964b15a8)
+![Image](https://github.com/user-attachments/assets/6d3e9a7f-e161-4227-be4b-0c3c543efac2)
 ## 📌 About
 This project demonstrates how to **automate the collection and analysis of Olympic Men’s Football top scorers data** by scraping live stats from BBC Sport.
 
